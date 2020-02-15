@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Prefix.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  KMP.cpp
+C:\Users\acer\source\repos\Labs\Prefix\KMP.cpp(29,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Prefix.vcxproj -> C:\Users\acer\source\repos\Labs\Debug\KMP.exe

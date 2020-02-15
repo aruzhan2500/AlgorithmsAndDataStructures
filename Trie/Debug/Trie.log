@@ -1,0 +1,4 @@
+﻿  Trie.cpp
+C:\Users\acer\source\repos\Labs\Trie\Trie.cpp(28,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\acer\source\repos\Labs\Trie\Trie.cpp(45,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Trie.vcxproj -> C:\Users\acer\source\repos\Labs\Debug\Trie.exe

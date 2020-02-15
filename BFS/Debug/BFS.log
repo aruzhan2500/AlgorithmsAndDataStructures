@@ -1,0 +1,3 @@
+﻿  BFS.cpp
+C:\Users\acer\source\repos\Labs\BFS\BFS.cpp(19,21): warning C4018:  <: несоответствие типов со знаком и без знака
+  BFS.vcxproj -> C:\Users\acer\source\repos\Labs\Debug\BFS.exe

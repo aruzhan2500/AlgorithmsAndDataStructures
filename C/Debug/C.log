@@ -1,0 +1,4 @@
+﻿  C.cpp
+C:\Users\acer\source\repos\Labs\C\C.cpp(29,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\acer\source\repos\Labs\C\C.cpp(38,31): warning C4018:  <: несоответствие типов со знаком и без знака
+  C.vcxproj -> C:\Users\acer\source\repos\Labs\Debug\C.exe

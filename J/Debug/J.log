@@ -1,0 +1,4 @@
+﻿  J.cpp
+C:\Users\acer\source\repos\Labs\J\J.cpp(40,22): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\acer\source\repos\Labs\J\J.cpp(43,23): warning C4018:  <: несоответствие типов со знаком и без знака
+  J.vcxproj -> C:\Users\acer\source\repos\Labs\Debug\J.exe

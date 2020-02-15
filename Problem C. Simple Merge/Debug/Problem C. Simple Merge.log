@@ -1,0 +1,19 @@
+﻿  Problem C. Simple Merge.cpp
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(14,11): error C2131:  выражение не определяется константой
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(14,11): message :  сбой вызван чтением переменной вне срока ее существования
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(14,11): message :  см. использование "n1"
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(15,11): error C2131:  выражение не определяется константой
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(15,11): message :  сбой вызван чтением переменной вне срока ее существования
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(15,11): message :  см. использование "n2"
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(17,18): error C3863:  тип массива "std::string [n1]" является неназначаемым
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(20,22): error C3863:  тип массива "std::string [n2]" является неназначаемым
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(61,11): error C2131:  выражение не определяется константой
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(61,11): message :  сбой вызван чтением переменной вне срока ее существования
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(61,11): message :  см. использование "n"
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(62,24): error C2131:  выражение не определяется константой
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(62,24): message :  сбой вызван чтением переменной вне срока ее существования
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(62,24): message :  см. использование "n"
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(68,24): error C2446:  !=: нет преобразования "const char [2]" в "int"
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(68,21): message :  Не существует контекста, в котором такое преобразование возможно
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(77,36): error C2660:  mergesort: функция не принимает 1 аргументов
+C:\Users\acer\source\repos\Labs\Problem C. Simple Merge\Problem C. Simple Merge.cpp(48,6): message :   см. объявление "mergesort"

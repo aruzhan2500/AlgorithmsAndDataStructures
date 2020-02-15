@@ -1,0 +1,21 @@
+﻿  Labs.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(2813,1): error C2100:  недопустимое косвенное обращение
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(2829): message :  выполняется компиляция ссылки на экземпляр шаблон функции "_InIt std::_Find_unchecked1<_InIt,_Ty>(_InIt,const _InIt,const _Ty &,std::false_type)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(2829): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(2829): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(2829): message :             _InIt=int,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(2829): message :             _Ty=int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(2829): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(2835): message :  выполняется компиляция ссылки на экземпляр шаблон функции "_InIt std::_Find_unchecked<_Iter,_Ty>(const _InIt,const _InIt,const _Ty &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(2835): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(2835): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(2835): message :             _InIt=int,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(2835): message :             _Iter=int,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(2835): message :             _Ty=int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(2835): message :         ]
+C:\Users\acer\source\repos\Labs\Labs\Labs.cpp(36): message :  выполняется компиляция ссылки на экземпляр шаблон функции "_InIt std::find<int,int>(_InIt,const _InIt,const _Ty &)"
+C:\Users\acer\source\repos\Labs\Labs\Labs.cpp(36): message :         with
+C:\Users\acer\source\repos\Labs\Labs\Labs.cpp(36): message :         [
+C:\Users\acer\source\repos\Labs\Labs\Labs.cpp(36): message :             _InIt=int,
+C:\Users\acer\source\repos\Labs\Labs\Labs.cpp(36): message :             _Ty=int
+C:\Users\acer\source\repos\Labs\Labs\Labs.cpp(36): message :         ]

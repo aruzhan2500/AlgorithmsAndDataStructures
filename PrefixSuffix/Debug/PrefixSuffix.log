@@ -1,0 +1,3 @@
+﻿  PrefixSuffix.cpp
+C:\Users\acer\source\repos\Labs\PrefixSuffix\PrefixSuffix.cpp(29,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  PrefixSuffix.vcxproj -> C:\Users\acer\source\repos\Labs\Debug\PrefixSuffix.exe

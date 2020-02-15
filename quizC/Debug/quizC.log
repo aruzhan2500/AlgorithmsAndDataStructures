@@ -1,0 +1,3 @@
+﻿  quizC.cpp
+C:\Users\acer\source\repos\Labs\quizC\quizC.cpp(23,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  quizC.vcxproj -> C:\Users\acer\source\repos\Labs\Debug\quizC.exe

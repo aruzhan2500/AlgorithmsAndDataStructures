@@ -1,0 +1,3 @@
+﻿  quizD.cpp
+C:\Users\acer\source\repos\Labs\quizD\quizD.cpp(44,21): warning C4018:  <: несоответствие типов со знаком и без знака
+  quizD.vcxproj -> C:\Users\acer\source\repos\Labs\Debug\quizD.exe

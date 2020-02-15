@@ -1,0 +1,3 @@
+﻿  EasyHash.cpp
+C:\Users\acer\source\repos\Labs\EasyHash\EasyHash.cpp(9,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  EasyHash.vcxproj -> C:\Users\acer\source\repos\Labs\Debug\EasyHash.exe

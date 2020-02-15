@@ -1,0 +1,3 @@
+﻿  Mountains.cpp
+C:\Users\acer\source\repos\Labs\Mountains\Mountains.cpp(52,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Mountains.vcxproj -> C:\Users\acer\source\repos\Labs\Debug\Mountains.exe

@@ -1,0 +1,3 @@
+﻿  A.cpp
+C:\Users\acer\source\repos\Labs\A\A.cpp(29,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  A.vcxproj -> C:\Users\acer\source\repos\Labs\Debug\A.exe
